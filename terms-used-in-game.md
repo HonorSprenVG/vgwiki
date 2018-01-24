@@ -272,11 +272,11 @@ Specific definitions of this vary but always at least refers to getting the last
 
 # Stun
 
-A debuff that completely shuts down someone. They are unable to move, attack, or do abilities for the duration of the stun. 
+A debuff that completely shuts down someone. They are unable to move, attack, or do abilities for the duration of the stun.
 
 # Supp
 
-Support. This is a hero or player who doesn't take any minion last hits and so usually ends up with very little gold. This is usually a hero who can do quite well without much gold and their main purpose is to help out the carry in their difficult early laning phase, & later help the team as a whole by placing vision, healing heroes, disabling the enemy heroes. 
+Support. This is a hero or player who doesn't take any minion last hits and so usually ends up with very little gold. This is usually a hero who can do quite well without much gold and their main purpose is to help out the carry in their difficult early laning phase, & later help the team as a whole by placing vision, healing heroes, disabling the enemy heroes.
 
 # Sustain
 
@@ -284,5 +284,21 @@ Long-term regeneration. E.g. a hero with a lot of sustain can stay in lane for a
 
 # WP
 
-Weapon Power
+Weapon Power  
+
+
+Crystal miner:- crystal miner is the guy who protect our jungle and his attack slows enemy. If u kill crystal miner of opponent team the one who kills it will get 125 amount of gold n rest team player will get 106 amount of gold
+
+Turret:- turret basically protect our vain crystal from enemy team and give them high damage if opponent are in range of turret. Turret also have defense with it which I'll last till minion are not killed
+
+Kraken:- Kraken is the demon which needs to be unleashed to fight the Team which unleash kraken will get his support. Kraken only deals damage to turrets and vain crystal the team which kills kraken will be given 500 gold to each player.
+
+Vain Crystal:- it is the core of game, the team which destroy vain crystal first will win the game. Vain Crystal will not be damaged by your hit until and unless all the turrets are not destroyed
+
+Minions:- these small helper help us to attack on turret. If a player kill opponent team minion he will receive +40, +80 amount of gold .  
+
+
+Mortal wound- it cut up healing by 50% and deals some damage heroes like taka vox Rona fortress and etc have this ability
+
+ 
 
