@@ -88,8 +88,6 @@ Shiversteel- it is a tier 3 item which gives +500 Max health +25% attack speed a
 
 Six Sin- it is a tier 2 item which deals +30 of weapon power . It cost 650 amount of gold
 
-
-
 Light Shield-It is a tier 1 item which gives +40 shield +10 armour it cost 250 amount of gold
 
 Lucky Strike-it is a tier 2 item which deals +20% critical chance +15% critical damage it cost 900 amount of gold
@@ -113,4 +111,220 @@ Poison Shiv-it is a tier 3 item +30% attack speed +30 weapon power +15% lifestea
 Protector contract-it is a tier 1 item which Grants a 120 health barrier to nearby allied heroes for 2s. 5s cooldown. 2 max charges, 15s per charge. It cost 250 amount of gold
 
 Reflex Block-it is a tier 2 item which gives +200 Max health and Gain a barrier worth 25% of your missing health and block all debuffs for 1.5s. \(45s cooldown\) Can activate while stunned. It cost 700 amount of gold
+
+**Scout traps**
+
+**  
+**
+
+**Its a consumable tier 1 vision item which can be purchased for 50 gold. Activate to place a trap at your feet . The trap will constantly grant vision of a certain area and will explode if enemies step on it dealing splash damage and also revealing affected enemies for 5 seconds**
+
+**  
+**
+
+**Serpent Mask**
+
+**  
+**
+
+**Its a tier 3 weapon item which grants you 100 weapon power and 10% weapon life steal.Your next 600-1200 \(level 1-12\) weapon damage that you do to enemies will have a +25% lifesteal which will recharge over 40 seconds.Serpents mask can be built out of Barbed needle and Book of eulogies.It costs 2800 gold to purchase**
+
+**  
+**
+
+**Shatterglass**
+
+**  
+**
+
+**Its a tier 3 crystal item which grants you 150 crystal power which increases the strength of your abilities**
+
+**It can be built out of heavy prism,eclipse prism and crystal bit.It costs 3000 gold to purchase**
+
+**  
+**
+
+**Shiversteel**
+
+**  
+**
+
+**Its a tier 3 utility item which can be used to slow enemy hero's movement speed and increase your hero's attack speed by 25%**
+
+**  
+**
+
+**When activated,for the next 4 seconds\(6s if you are a melee hero\) your basic attacks reduce enemy movement speed by 40% for 1.4 seconds.This item has a 12 second cooldown.It can be built out of Dragonheart and blazing salvo.It costs 1950 gold to purchase**
+
+**  
+**
+
+**Spellfire**
+
+**  
+**
+
+**Its a tier 3 crystal item which grants 90 crystal power and has a passive that abilities dealing crystal damage to enemies \(excluding lane minions\) deal 15-50 \(level 1-12\) + 100% of your crystal power as bonus crystal damage over 4s. It can be built out of heavy prism and eclipse prism.It costs 2700 gold to purchase**
+
+**  
+**
+
+**Six sins**
+
+**  
+**
+
+**It is a tier 2 weapon item which grants 30 weapon power to the hero and costs 650 gold. It is built out of weapon blade.**
+
+**  
+**
+
+**Slumbering Husk**
+
+**  
+**
+
+**Its a tier 3 defense item costing 1700 gold and has a passive which fortifies your remaining health for 1.5s if you take over 20% of your max health as damage within 1.5 seconds. It is very useful against heroes with high burst damage.**
+
+**  
+**
+
+**Sorrowblade**
+
+**  
+**
+
+**Its a tier 3 weapon item which costs 3100 gold and it grants 150 weapon power which increases the damage of your basic attacks.It can be built out of six sins and Heavy steel.**
+
+**  
+**
+
+**Spellsword**
+
+**  
+**
+
+**Its a tier 3 weapon item which costs 2600 gold.It grants 110 weapon power,35% Cooldown Speed and 3 energy recharge.It has a passive which restores 4 energy for each basic attack on non heroes and 12 energy for each basic attack on heroes.It can be built out of chronograph and six sins.**
+
+**  
+**
+
+**Sprint Boots**
+
+**  
+**
+
+**Its a tier 1 utility item costing 300 gold.It passively grants 0.4 move speed to hero and makes the hero sprint for 2 seconds when activated.It has a cooldown of 150 seconds.**
+
+**  
+**
+
+**Stormcrown**
+
+**  
+**
+
+**Its a tier 3 utility item which costs 2200 gold and grants the hero 20% cooldown speed,4 energy recharge and 300 health.It has a passive in which basic attacks deal 40-140 \(level 1-12\) bonus true damage over 1.2 seconds to non-heroes \(deals 25% damage to heroes\).  
+  
+**
+
+**Stormguard Banner**
+
+**  
+**
+
+**Its a tier 2 utility item which costs 850 gold and grants +250 max health. It has a passive in which basic attacks Deal 20-70 \(level 1-12\) bonus true damage over 1.2 seconds to non-heroes \(deals 25% damage to heroes\).It is built out of oakheart**
+
+**  
+**
+
+**Tension Bow**
+
+**  
+**
+
+**Its a tier 3 weapon item which costs 2150 gold and it grants the hero 10% armor pierce and 45 weapon power.It has a passive in which every 6 seconds hero’s basic attack deals additional 180 bonus damage.**
+
+**  
+**
+
+**Tornado Trigger**
+
+**  
+**
+
+**Its a tier 3 weapon item which costs 2600 gold and it grants the hero 40% attack speed, 35% critical damage chance and 15% critical damage increase.**
+
+**  
+**
+
+**Travel boots**
+
+**  
+**
+
+**Its a tier 2 utility item costing 1000 gold.It passively grants 0.4 move speed while in combat and 1 move speed while not in combat.Activating it makes the hero sprint for 2 seconds and has a cooldown of 90 seconds.**
+
+**  
+**
+
+**Tyrants Monocle**
+
+**  
+**
+
+**Its a tier 3 weapon item which costs 2750 gold and grants the hero 35% critical damage chance,15% critical damage increase and 60 weapon power.it can be built out of six sins and lucky strike.**
+
+**  
+**
+
+**Swift Shooter**
+
+**  
+**
+
+**Its a tier 1 weapon item which costs 300 gold and it grants the hero 10% attack speed.it is further built into tornado trigger**
+
+**  
+**
+
+**Void battery**
+
+**  
+**
+
+**It's a tier 2 ability item which costs 700 gold and it grants the hero +350 max energy capacity and 6 energy recharge.It is built out of energy battery.**
+
+**  
+**
+
+**War treads**
+
+**  
+**
+
+**Its a tier 3 utility item which costs 2500 gold and grants the hero 500 health and 0.4 passive move speed.When activated,it grants a sprint to all nearby teammates for 2 seconds and has a 60 second Cooldown.**
+
+**  
+**
+
+**Weapon blade**
+
+**  
+**
+
+**Its a tier 1 weapon item which costs 300 gold and grants the hero 15 weapon power.**
+
+**  
+**
+
+**Weapon Infusion**
+
+**  
+**
+
+**Its a tier 1 consumable item which costs 500 gold and grants the hero 20-60 weapon power, 5%-15% attack speed, and 10-30 armor & shield based on your level. Lasts 150s.**
+
+  
+
 
