@@ -14,21 +14,19 @@ Your content goes here.
 {% tab title="Weapon" %}
 |  |  | Tier | Cost | Description | builds to | misc |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](../.gitbook/assets/image%20%289%29.png) |  Weapon Blade | 1 | 300 | +15 Weapon Power | Heavy Steel, Six Sins, Piercing Spear | Tip: Weapon power increases the damage of your basic attacks |
-| ![](../.gitbook/assets/image%20%282%29.png) |  Book of Eulogies | 1 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%281%29.png) | Swift shooter | 1 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2844%29.png) | Minions foot | 1 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%283%29.png) | Heavy Steel | 2 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2812%29.png) | Six Sins | 2 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2811%29.png) | Piercing Spear | 2 |  |  |  |  |
-{% endtab %}
-
-{% tab title="Crystal" %}
-Your content goes here.
+| ![](../.gitbook/assets/image%20%2813%29.png) |  Weapon Blade | 1 | 300 | +15 Weapon Power | Heavy Steel, Six Sins, Piercing Spear | Tip: Weapon power increases the damage of your basic attacks |
+| ![](../.gitbook/assets/image%20%283%29.png) |  Book of Eulogies | 1 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%282%29.png) | Swift shooter | 1 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%2863%29.png) | Minions foot | 1 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%284%29.png) | Heavy Steel | 2 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%2817%29.png) | Six Sins | 2 |  |  |  |  |
+|  | Piercing Spear | 2 |  |  |  |  |
 {% endtab %}
 
 {% tab title="Defense" %}
-
+* Tier 1
+  * ![Crystal bit](../.gitbook/assets/image%20%2841%29.png)
+  * ![Energy battery](../.gitbook/assets/image%20%2818%29.png)
 {% endtab %}
 
 {% tab title="Utility" %}
@@ -42,6 +40,12 @@ Your content goes here.
 
 ## Aegis
 
+![](../.gitbook/assets/image%20%2815%29.png)
+
+1. fjhg
+   1. uytyhg
+   2. kljhklj
+2. 
 Aegis is a Tier 3 defensive item used within Vainglory matches to protect your hero from enemy abilities. The way Aegis works is to block the effects of an enemies attack as long as it is used within the correct timing. Aegis provides your hero with +125 Shield, +30 Armor, +200 Max Health. Once you have used this item, it has a 35 second cool down before you can use it again. The cost to purchase Aegis during your match is 2250.
 
 ## Aftershock
