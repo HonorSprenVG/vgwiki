@@ -14,13 +14,13 @@ Your content goes here.
 {% tab title="Weapon" %}
 |  |  | Tier | Cost | Description | builds to | misc |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](../.gitbook/assets/image%20%288%29.png) |  Weapon Blade | 1 | 300 | +15 Weapon Power | Heavy Steel, Six Sins, Piercing Spear | Tip: Weapon power increases the damage of your basic attacks |
+| ![](../.gitbook/assets/image%20%289%29.png) |  Weapon Blade | 1 | 300 | +15 Weapon Power | Heavy Steel, Six Sins, Piercing Spear | Tip: Weapon power increases the damage of your basic attacks |
 | ![](../.gitbook/assets/image%20%282%29.png) |  Book of Eulogies | 1 |  |  |  |  |
 | ![](../.gitbook/assets/image%20%281%29.png) | Swift shooter | 1 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2828%29.png) | Minions foot | 1 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%2844%29.png) | Minions foot | 1 |  |  |  |  |
 | ![](../.gitbook/assets/image%20%283%29.png) | Heavy Steel | 2 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2811%29.png) | Six Sins | 2 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2810%29.png) | Piercing Spear | 2 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%2812%29.png) | Six Sins | 2 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%2811%29.png) | Piercing Spear | 2 |  |  |  |  |
 {% endtab %}
 
 {% tab title="Crystal" %}
