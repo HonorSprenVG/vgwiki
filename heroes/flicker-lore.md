@@ -12,7 +12,7 @@ The Meekos territory expedition was an enormous success. Eighteen specimens of w
 
 I hypothesized previous to this expedition that further research would result in stronger fighting fairies with venomous stings, but deep in the Meekos jungle I made a fascinating discovery: a radioactive crystal substance that causes unique metamorphoses in the local flora and fauna. Since the last expedition three years ago, the plant life has grown at an astounding rate, far faster than possible according to the laws of evolution, and more dangerous. The Meekos have used this powerful crystal to their militaristic advantage, growing an arsenal of poisonous spikes, sticky tanglers and exploding bulbs. It took one hundred generations to breed our giant beetle cavalry, but the uneducated Meekos have managed in a few short years to create plants sentient enough to serve as ludicrous bouncing vehicles. The fairies have taken to it as well, using crystal splinters and gems as decoration; their ongoing exposure to this substance and its radiation has affected the fairies in coloration, bioluminescence and increasing size. Further study and dissection may yet reveal many more variations.
 
-![](../../.gitbook/assets/flicker-sketch.jpg)
+![](../.gitbook/assets/flicker-sketch.jpg)
 
 The possibilities of this mysterious crystal are immeasurable. I’m afraid I quite overburdened my expedition with samples of it. With your highness’ permission 
 
@@ -52,7 +52,7 @@ Ethel, a Bulbous-bottomed Gigglefly, stuck her tongue out at the captive fairies
 
 Ethel rode her little beetle up a wall and along a blueprint, peering at it while crunching down on her worm. “What’s this gumball machine for?”
 
-![](../../.gitbook/assets/flicker-fairy-launcher.jpg)
+![](../.gitbook/assets/flicker-fairy-launcher.jpg)
 
 “That is not a gumball machine. It is a fairy launcher.” Fairy dust swirled away from Flicker’s brush, then burst into flame with a_puhhh\_sound, singeing the scientist’s cheek fur. He cursed and the fairy sneered at him. “You… you… Lucy,\_darling_, you\_must\_stay still while I collect the dust and stop igniting it, or the Bleekos army shall not have the weaponry it needs for the border wars.”
 

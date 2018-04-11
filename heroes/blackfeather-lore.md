@@ -2,7 +2,7 @@
 
 ## Blackfeather Lore: Part One - ‘PRINCESS KIDNAPPED!’
 
-![1000tease](../../.gitbook/assets/1000tease.jpg)
+\(Image Only\)
 
 ## Blackfeather Lore: Part Two - ‘SOCIAL CLIMBERS’
 

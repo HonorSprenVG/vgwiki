@@ -1,5 +1,45 @@
 # Items
 
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Your content goes here.
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Weapon" %}
+|  |  | Tier | Cost | Description | builds to | misc |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](../.gitbook/assets/image%20%288%29.png) |  Weapon Blade | 1 | 300 | +15 Weapon Power | Heavy Steel, Six Sins, Piercing Spear | Tip: Weapon power increases the damage of your basic attacks |
+| ![](../.gitbook/assets/image%20%282%29.png) |  Book of Eulogies | 1 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%281%29.png) | Swift shooter | 1 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%2828%29.png) | Minions foot | 1 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%283%29.png) | Heavy Steel | 2 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%2811%29.png) | Six Sins | 2 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%2810%29.png) | Piercing Spear | 2 |  |  |  |  |
+{% endtab %}
+
+{% tab title="Crystal" %}
+Your content goes here.
+{% endtab %}
+
+{% tab title="Defense" %}
+
+{% endtab %}
+
+{% tab title="Utility" %}
+{% page-ref page="../" %}
+{% endtab %}
+
+{% tab title="Other" %}
+
+{% endtab %}
+{% endtabs %}
+
 ## Aegis
 
 Aegis is a Tier 3 defensive item used within Vainglory matches to protect your hero from enemy abilities. The way Aegis works is to block the effects of an enemies attack as long as it is used within the correct timing. Aegis provides your hero with +125 Shield, +30 Armor, +200 Max Health. Once you have used this item, it has a 35 second cool down before you can use it again. The cost to purchase Aegis during your match is 2250.
