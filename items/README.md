@@ -2,7 +2,9 @@
 
 {% tabs %}
 {% tab title="Second Tab" %}
-
+| ![](../.gitbook/assets/image%20%2835%29.png) |  |
+| --- | --- |
+|  |  |
 {% endtab %}
 {% endtabs %}
 
@@ -13,7 +15,7 @@
 | ![](../.gitbook/assets/image%20%2816%29.png) |  [Weapon Blade](./#aegis) | 1 | 300 | +15 Weapon Power |
 | ![](../.gitbook/assets/image%20%284%29.png) |  Book of Eulogies | 1 |  |  |
 | ![](../.gitbook/assets/image%20%282%29.png) | Swift shooter | 1 |  |  |
-| ![](../.gitbook/assets/image%20%2874%29.png) | Minions foot | 1 |  |  |
+| ![](../.gitbook/assets/image%20%2875%29.png) | Minions foot | 1 |  |  |
 | ![](../.gitbook/assets/image%20%285%29.png) | Heavy Steel | 2 | 850 + weapon blade\(1150\) |  |
 | ![](../.gitbook/assets/image%20%2820%29.png) | [Six Sins](../terms-used-in-game.md#ad) | 2 |  |  |
 |  | Piercing Spear | 2 |  |  |
@@ -21,7 +23,7 @@
 
 {% tab title="Defense" %}
 * Tier 1
-  * ![Crystal bit](../.gitbook/assets/image%20%2849%29.png)
+  * ![Crystal bit](../.gitbook/assets/image%20%2850%29.png)
   * ![Energy battery](../.gitbook/assets/image%20%2822%29.png)
 {% endtab %}
 
