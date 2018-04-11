@@ -1,32 +1,28 @@
 # Items
 
 {% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
 {% tab title="Second Tab" %}
-Your content goes here.
+
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
 {% tab title="Weapon" %}
-|  |  | Tier | Cost | Description | builds to | misc |
+|  |  | Tier | Cost | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](../.gitbook/assets/image%20%2813%29.png) |  [Weapon Blade](./#aegis) | 1 | 300 | +15 Weapon Power | Heavy Steel, Six Sins, Piercing Spear | Tip: Weapon power increases the damage of your basic attacks |
-| ![](../.gitbook/assets/image%20%283%29.png) |  Book of Eulogies | 1 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%282%29.png) | Swift shooter | 1 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2863%29.png) | Minions foot | 1 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%284%29.png) | Heavy Steel | 2 |  |  |  |  |
-| ![](../.gitbook/assets/image%20%2817%29.png) | Six Sins | 2 |  |  |  |  |
-|  | Piercing Spear | 2 |  |  |  |  |
+| ![](../.gitbook/assets/image%20%2816%29.png) |  [Weapon Blade](./#aegis) | 1 | 300 | +15 Weapon Power |
+| ![](../.gitbook/assets/image%20%284%29.png) |  Book of Eulogies | 1 |  |  |
+| ![](../.gitbook/assets/image%20%282%29.png) | Swift shooter | 1 |  |  |
+| ![](../.gitbook/assets/image%20%2874%29.png) | Minions foot | 1 |  |  |
+| ![](../.gitbook/assets/image%20%285%29.png) | Heavy Steel | 2 | 850 + weapon blade\(1150\) |  |
+| ![](../.gitbook/assets/image%20%2820%29.png) | [Six Sins](../terms-used-in-game.md#ad) | 2 |  |  |
+|  | Piercing Spear | 2 |  |  |
 {% endtab %}
 
 {% tab title="Defense" %}
 * Tier 1
-  * ![Crystal bit](../.gitbook/assets/image%20%2841%29.png)
-  * ![Energy battery](../.gitbook/assets/image%20%2818%29.png)
+  * ![Crystal bit](../.gitbook/assets/image%20%2849%29.png)
+  * ![Energy battery](../.gitbook/assets/image%20%2822%29.png)
 {% endtab %}
 
 {% tab title="Utility" %}
@@ -40,7 +36,7 @@ Your content goes here.
 
 ## Aegis
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 1. fjhg
    1. uytyhg
