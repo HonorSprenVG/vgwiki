@@ -2,8 +2,11 @@
 
 {% tabs %}
 {% tab title="Second Tab" %}
-| ![](../.gitbook/assets/image%20%2835%29.png) |  |
-| --- | --- |
+| ![](../.gitbook/assets/image%20%2860%29.png) |  [Book of Eulogies](./#book-of-eulogies) \| cost :300g \| Tier1 |
+| --- | --- | --- | --- | --- |
+|  |   |
+|  |  |
+|  |  |
 |  |  |
 {% endtab %}
 {% endtabs %}
@@ -15,7 +18,7 @@
 | ![](../.gitbook/assets/image%20%2816%29.png) |  [Weapon Blade](./#aegis) | 1 | 300 | +15 Weapon Power |
 | ![](../.gitbook/assets/image%20%284%29.png) |  Book of Eulogies | 1 |  |  |
 | ![](../.gitbook/assets/image%20%282%29.png) | Swift shooter | 1 |  |  |
-| ![](../.gitbook/assets/image%20%2875%29.png) | Minions foot | 1 |  |  |
+| ![](../.gitbook/assets/image%20%2876%29.png) | Minions foot | 1 |  |  |
 | ![](../.gitbook/assets/image%20%285%29.png) | Heavy Steel | 2 | 850 + weapon blade\(1150\) |  |
 | ![](../.gitbook/assets/image%20%2820%29.png) | [Six Sins](../terms-used-in-game.md#ad) | 2 |  |  |
 |  | Piercing Spear | 2 |  |  |
@@ -31,10 +34,25 @@
 {% page-ref page="../" %}
 {% endtab %}
 
+{% tab title="" %}
+
+{% endtab %}
+
 {% tab title="Other" %}
 
 {% endtab %}
 {% endtabs %}
+
+## Book of Eulogies
+
+* Tier 1 weapon power item
+* cost: 300 gold
+*  Attributes:
+  * +5 Weapon power
+  * Passive: Restores 25 health whenever you kill a minion or monster \(60 if using a melee default attack\).
+  * _**Vampirism**_: +4% lifesteal \(does not stack with other _**Vampirism**_\)
+* Builds into:  Barbed Needle
+* Tip: Helps you stay healthy while last-hitting in lane.
 
 ## Aegis
 
