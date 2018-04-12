@@ -2,6 +2,8 @@
 
 {% tabs %}
 {% tab title="Weapon" %}
+{% tabs %}
+{% tab title="T1" %}
 | Image | Name | Cost \(upgrade cost\) | Description | Builds Into | Builds From | Tip |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Tier 1** |  |  |  |  |  |  |
